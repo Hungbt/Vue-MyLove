@@ -1,0 +1,2 @@
+Error: File C:\Users\VBD\AppData\Roaming\npm\vue.ps1 cannot
+ ==> Set-ExecutionPolicy RemoteSigned 
