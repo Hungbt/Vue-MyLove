@@ -1,2 +1,2 @@
-Error: File C:\Users\VBD\AppData\Roaming\npm\vue.ps1 cannot
+Error: File C:\Users\VBD\AppData\Roaming\npm\vue.ps1 cannot // loi nay xuat hien khi go lenh: vue create my-project
  ==> Set-ExecutionPolicy RemoteSigned 

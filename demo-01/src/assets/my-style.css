@@ -1,0 +1,8 @@
+.lightning {
+    display: none;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 0;
+    height: 100%;
+}
